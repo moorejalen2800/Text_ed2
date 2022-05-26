@@ -3,6 +3,9 @@
 
 A simple Progressive Web App text-editor for JavaScript, that works offline as well as online.
 
+Original Repo Link with all My COMMITS
+https://github.com/moorejalen2800/Text-ED.git
+
 
 # Deployed Link
 
